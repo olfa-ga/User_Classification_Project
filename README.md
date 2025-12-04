@@ -15,7 +15,7 @@ The goal is to predict which users are likely to purchase a subscription, allowi
 ## Dataset
 The dataset **is not included** in this repository for privacy reasons.  
 
-To run this project, you will need a CSV file named `ml_datasource.csv` (or any other name you choose) with the following structure:
+To run this project, you will need a CSV file named `ml_datasource.csv`  with the following structure:
 
 | student_id | minutes_watched | courses_started | practice_exams_started | minutes_spent_on_exams | days_on_platform | student_country | purchased |
 |------------|----------------|----------------|-----------------------|------------------------|-----------------|----------------|-----------|
