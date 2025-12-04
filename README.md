@@ -28,8 +28,8 @@ To run this project, you will need a CSV file named `ml_datasource.csv`  with th
 ## File Structure
 
 User_Classification_Project/
- User_Classification.ipynb # Jupyter notebook with full workflow
- README.md # Project description and instructions
+ 1.User_Classification.ipynb # Jupyter notebook with full workflow
+ 2.README.md # Project description and instructions
 
 
 ---
